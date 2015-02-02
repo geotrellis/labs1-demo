@@ -11,7 +11,7 @@ libraryDependencies ++= Seq(
     "org.geotools" % "gt-main" % "8.0-M4",
     "org.geotools" % "gt-coverage" % "8.0-M4",
     "org.geotools" % "gt-coveragetools" % "8.0-M4",
-    "net.liftweb" % "lift-json_2.10.0-RC2" % "2.5-SNAPSHOT" from "https://oss.sonatype.org/content/repositories/snapshots/net/liftweb/lift-json_2.9.2/2.5-SNAPSHOT/lift-json_2.9.2-2.5-SNAPSHOT.jar",
+    "net.liftweb" % "lift-json_2.10" % "3.0-SNAPSHOT" from "https://oss.sonatype.org/content/repositories/snapshots/net/liftweb/lift-json_2.10/3.0-SNAPSHOT/lift-json_2.10-3.0-SNAPSHOT.jar",
     "com.azavea.geotrellis" %% "geotrellis" % "0.8.0-RC2"
 )
 
